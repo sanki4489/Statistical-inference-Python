@@ -2,6 +2,7 @@
 topics: Statistics, python
 subject: ML
 sem: 5th
+Group number: 07
 
 Problem: 
 1. Few people were interviewd and asked to grade a mayor between 1 to 10 and a pooling data was created.
