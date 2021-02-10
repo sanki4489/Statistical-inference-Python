@@ -1,9 +1,12 @@
 # Statistical-inference-Python
-topics: Statistics, python CI
+topics: Statistics, python
 subject: ML
 sem: 5th
 
-Problem: Using bootstraping on a pooling data for grades, estimate the confidence interval for a fraction of people that gives a passing grade.
+Problem: 
+1. Few people were interviewd and asked to grade a mayor between 1 to 10 and a pooling data was created.
+Dataset: grades.csv
+2. Using bootstraping on a pooling data for grades, estimate the confidence interval for a fraction of people that gives mayor a passing grade.
 Dataset: grade.csv
 
 Concepts covered:
